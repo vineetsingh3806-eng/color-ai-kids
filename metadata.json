@@ -1,0 +1,8 @@
+{
+  "name": "ColorAI Kids",
+  "description": "A fun, safe, colorful coloring application for children with creative coloring pages, intuitive fill and brush tools, rewards, screen time limits, and parental controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
